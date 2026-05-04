@@ -1,37 +1,38 @@
-<!-- Typing Animation -->
+<!-- BANNER VERMELHO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Performance+Focused+Developer;Backend+%26+Optimization+Specialist;Python+%7C+Django+%7C+Linux;Building+Fast+%26+Efficient+Systems" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
+</p>
+
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=700&lines=Performance+Focused+Developer;Backend+%26+Optimization+Specialist;Python+%7C+Django+%7C+Linux;Building+Fast+%26+Efficient+Systems"/>
 </p>
 
 ---
 
 # 👋 Rian Duarte
 
-**Performance-focused Backend Developer | System Optimization | Automation**
-
-Desenvolvedor focado em **alto desempenho, eficiência e escalabilidade**, com experiência prática em otimização de sistemas, automação e desenvolvimento backend.
+<p align="center">
+🔥 Backend Developer focado em performance, automação e sistemas rápidos  
+⚡ Sempre buscando otimizar tudo ao máximo  
+</p>
 
 ---
 
 ## 🧠 Sobre mim
 
-🎓 Estudante de Sistemas de Informação — UFV  
-⚙️ Focado em otimização de desempenho (software, sistemas e hardware)  
-🐧 Experiência com Linux, VPS e ambientes baseados em terminal  
-🚀 Desenvolvimento de aplicações web modernas com Django  
-🧩 Interesse em arquiteturas eficientes e soluções escaláveis  
-
-Atualmente trabalhando em projetos que envolvem **performance tuning**, automação e desenvolvimento de sistemas rápidos e responsivos.
+- 🎓 Sistemas de Informação — UFV  
+- ⚙️ Foco em performance e otimização  
+- 🐧 Linux / VPS / Terminal  
+- 🚀 Django + Backend moderno  
+- 🧩 Arquitetura eficiente e escalável  
 
 ---
 
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img align="center" alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Django" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
-  <img align="center" alt="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
-  <img align="center" alt="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img height="50" src="https://skillicons.dev/icons?i=python,django,linux,git"/>
 </p>
 
 ---
@@ -39,8 +40,8 @@ Atualmente trabalhando em projetos que envolvem **performance tuning**, automaç
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianDuarte&layout=compact&theme=tokyonight"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RianDuarte&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&cache_seconds=86400"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianDuarte&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117&cache_seconds=86400"/>
 </p>
 
 ---
@@ -48,27 +49,40 @@ Atualmente trabalhando em projetos que envolvem **performance tuning**, automaç
 ## 🐍 Contribuições
 
 <p align="center">
-  <img src="https://github.com/RianDuarte/RianDuarte/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/RianDuarte/RianDuarte/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos
 
-🔹 **Optimizer**  
-Ferramentas voltadas para otimização de desempenho e tuning de sistemas.
+🔴 **Optimizer**  
+Ferramentas de otimização e tuning de sistema  
+
+🔴 **mush_site**  
+Web app com foco em performance usando Django  
 
 ---
 
 ## 🌐 Contato
 
-📧 Email:  
-💬 Discord: rian5862  
+<p align="center">
+  <a href="https://discord.com/users/rian5862">
+    <img src="https://img.shields.io/badge/Discord-FF0000?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-## 👁️ Visitas no perfil
+## 👁️ Visitas
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RianDuarte&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=RianDuarte&color=ff0000"/>
+</p>
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
 </p>
