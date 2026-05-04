@@ -1,4 +1,4 @@
-<!-- HEADER ESTILIZADO (MELHOR FONTE POSSÍVEL NO GITHUB) -->
+<!-- HEADER ESTILIZADO -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=Rian%20Duarte&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Performance%20Focused%20Developer&descAlignY=60"/>
 </p>
@@ -32,17 +32,35 @@
 
 <p align="center">
 
-💻 Backend  
-████████████░░ 85%
+<!-- Linha animada topo -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2"/>
 
-⚙️ Performance  
-█████████████░ 90%
+<br><br>
 
-🐧 Linux  
-███████████░░░ 80%
+<!-- Texto animado -->
+<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=18&center=true&vCenter=true&width=600&lines=Initializing+Backend...;Optimizing+Performance...;Loading+Linux+Modules...;Starting+Django+Engine..." />
 
-🚀 Django  
-██████████░░░░ 75%
+<br><br>
+
+<!-- Barras -->
+<img src="https://progress-bar.dev/85/?scale=100&title=Backend&width=500&color=ff0000&suffix=%25"/>
+
+<br><br>
+
+<img src="https://progress-bar.dev/90/?scale=100&title=Performance&width=500&color=ff0000&suffix=%25"/>
+
+<br><br>
+
+<img src="https://progress-bar.dev/80/?scale=100&title=Linux&width=500&color=ff0000&suffix=%25"/>
+
+<br><br>
+
+<img src="https://progress-bar.dev/75/?scale=100&title=Django&width=500&color=ff0000&suffix=%25"/>
+
+<br><br>
+
+<!-- Linha animada baixo -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF0000&height=2"/>
 
 </p>
 
