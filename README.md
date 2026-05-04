@@ -1,16 +1,85 @@
-## Hi there 👋
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Performance+Focused+Developer;Backend+%26+Optimization+Specialist;Python+%7C+Django+%7C+Linux;Building+Fast+%26+Efficient+Systems" />
+</p>
 
-<!--
-**RianDuarte/RianDuarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 👋 Rian Duarte
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Performance-focused Backend Developer | System Optimization | Automation**
+
+Desenvolvedor focado em **alto desempenho, eficiência e escalabilidade**, com experiência prática em otimização de sistemas, automação e desenvolvimento backend.
+
+---
+
+## 🧠 Sobre mim
+
+🎓 Estudante de Sistemas de Informação — UFV  
+⚙️ Focado em otimização de desempenho (software, sistemas e hardware)  
+🐧 Experiência com Linux, VPS e ambientes baseados em terminal  
+🚀 Desenvolvimento de aplicações web modernas com Django  
+🧩 Interesse em arquiteturas eficientes e soluções escaláveis  
+
+Atualmente trabalhando em projetos que envolvem **performance tuning**, automação e desenvolvimento de sistemas rápidos e responsivos.
+
+---
+
+## 🛠️ Tecnologias
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" alt="Django" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+  <img align="center" alt="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</div>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🔥 Streak de contribuições
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 Contribuições (snake animation)
+
+<p align="center">
+  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+🔹 **Optimizer**  
+Ferramentas voltadas para otimização de desempenho e tuning de sistemas.
+
+🔹 **mush_site**  
+Projeto web moderno utilizando Django, com foco em design e performance.
+
+---
+
+## 🌐 Contato
+
+📧 Email:  
+💬 Discord: rian5862  
+
+---
+
+## 👁️ Visitas no perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" />
+</p>
