@@ -27,12 +27,12 @@ Atualmente trabalhando em projetos que envolvem **performance tuning**, automaç
 
 ## 🛠️ Tecnologias
 
-<div style="display: inline_block"><br>
+<p align="center">
   <img align="center" alt="Python" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Django" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
   <img align="center" alt="Linux" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="Git" height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-</div>
+</p>
 
 ---
 
@@ -45,15 +45,7 @@ Atualmente trabalhando em projetos que envolvem **performance tuning**, automaç
 
 ---
 
-## 🔥 Streak de contribuições
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RianDuarte&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribuições (snake animation)
+## 🐍 Contribuições
 
 <p align="center">
   <img src="https://github.com/RianDuarte/RianDuarte/blob/output/github-contribution-grid-snake.svg" />
