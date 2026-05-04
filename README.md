@@ -1,9 +1,9 @@
-<!-- LIQUID HEADER MELHORADO -->
+<!-- HEADER COM EFEITO SFX -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&animation=fadeIn&text=Rian%20Duarte&fontSize=50&fontColor=ffffff&fontAlignY=35"/>
 </p>
 
-<!-- TYPING (ANTIGO, MELHOR) -->
+<!-- TYPING CLEAN -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=700&lines=Performance+Focused+Developer;Backend+%26+Optimization+Specialist;Python+%7C+Django+%7C+Linux;Building+Fast+%26+Efficient+Systems"/>
 </p>
@@ -13,7 +13,7 @@
 # 👋 Rian Duarte
 
 <p align="center">
-Backend Developer focado em performance, automação e sistemas eficientes
+⚡ Backend Developer focado em performance e sistemas eficientes  
 </p>
 
 ---
@@ -21,10 +21,30 @@ Backend Developer focado em performance, automação e sistemas eficientes
 ## 🧠 Sobre mim
 
 - 🎓 Sistemas de Informação — UFV  
-- ⚙️ Foco em performance e otimização  
-- 🐧 Linux / VPS / Terminal  
+- ⚙️ Otimização de sistemas e performance  
+- 🐧 Linux / VPS / Infraestrutura  
 - 🚀 Django + Backend moderno  
-- 🧩 Arquiteturas escaláveis  
+- 🧩 Arquitetura escalável  
+
+---
+
+## 🎮 SYSTEM STATUS (HUD STYLE)
+
+<p align="center">
+
+💻 Backend  
+████████████░░ 85%
+
+⚙️ Performance  
+█████████████░ 90%
+
+🐧 Linux  
+███████████░░░ 80%
+
+🚀 Django  
+██████████░░░░ 75%
+
+</p>
 
 ---
 
@@ -39,16 +59,16 @@ Backend Developer focado em performance, automação e sistemas eficientes
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RianDuarte&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RianDuarte&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RianDuarte&layout=compact&langs_count=6&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
+  <img height="130" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RianDuarte&layout=compact&langs_count=6&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/RianDuarte/RianDuarte/output/github-contribution-grid-snake.svg"/>
@@ -56,13 +76,24 @@ Backend Developer focado em performance, automação e sistemas eficientes
 
 ---
 
+## 🧬 DEV RANK
+
+<p align="center">
+
+🟥 Rank: **Performance Specialist**  
+⬆️ Evolução contínua baseada em projetos e otimização  
+
+</p>
+
+---
+
 ## 🚀 Projetos
 
 🔴 **Optimizer**  
-Ferramentas de otimização de desempenho  
+Ferramentas de tuning e otimização  
 
 🔴 **mush_site**  
-Projeto Django focado em performance  
+Web app com foco em performance  
 
 ---
 
@@ -84,7 +115,7 @@ Projeto Django focado em performance
 
 ---
 
-<!-- LIQUID FOOTER -->
+<!-- FOOTER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=footer"/>
 </p>
