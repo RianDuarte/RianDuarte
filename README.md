@@ -1,9 +1,9 @@
-<!-- HEADER COM EFEITO SFX -->
+<!-- HEADER ESTILIZADO (MELHOR FONTE POSSÍVEL NO GITHUB) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=200&section=header&animation=fadeIn&text=Rian%20Duarte&fontSize=50&fontColor=ffffff&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=Rian%20Duarte&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Performance%20Focused%20Developer&descAlignY=60"/>
 </p>
 
-<!-- TYPING CLEAN -->
+<!-- TYPING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=700&lines=Performance+Focused+Developer;Backend+%26+Optimization+Specialist;Python+%7C+Django+%7C+Linux;Building+Fast+%26+Efficient+Systems"/>
 </p>
@@ -28,7 +28,7 @@
 
 ---
 
-## 🎮 SYSTEM STATUS (HUD STYLE)
+## 🎮 SYSTEM STATUS
 
 <p align="center">
 
@@ -81,7 +81,7 @@
 <p align="center">
 
 🟥 Rank: **Performance Specialist**  
-⬆️ Evolução contínua baseada em projetos e otimização  
+⬆️ Evolução contínua baseada em projetos  
 
 </p>
 
@@ -90,10 +90,7 @@
 ## 🚀 Projetos
 
 🔴 **Optimizer**  
-Ferramentas de tuning e otimização  
-
-🔴 **mush_site**  
-Web app com foco em performance  
+Ferramentas de tuning e otimização de sistemas  
 
 ---
 
