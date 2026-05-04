@@ -39,8 +39,8 @@ Atualmente trabalhando em projetos que envolvem **performance tuning**, automaç
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RianDuarte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RianDuarte&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
@@ -48,7 +48,7 @@ Atualmente trabalhando em projetos que envolvem **performance tuning**, automaç
 ## 🔥 Streak de contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=RianDuarte&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -56,7 +56,7 @@ Atualmente trabalhando em projetos que envolvem **performance tuning**, automaç
 ## 🐍 Contribuições (snake animation)
 
 <p align="center">
-  <img src="https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/RianDuarte/RianDuarte/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
@@ -81,5 +81,5 @@ Projeto web moderno utilizando Django, com foco em design e performance.
 ## 👁️ Visitas no perfil
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=RianDuarte&color=blue" />
 </p>
