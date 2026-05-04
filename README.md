@@ -58,9 +58,6 @@ Atualmente trabalhando em projetos que envolvem **performance tuning**, automaç
 🔹 **Optimizer**  
 Ferramentas voltadas para otimização de desempenho e tuning de sistemas.
 
-🔹 **mush_site**  
-Projeto web moderno utilizando Django, com foco em design e performance.
-
 ---
 
 ## 🌐 Contato
