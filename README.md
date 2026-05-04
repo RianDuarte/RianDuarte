@@ -1,11 +1,11 @@
-<!-- HEADER GAMER COM RAIO -->
+<!-- LIQUID HEADER MELHORADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=FF0000&height=220&section=header&text=Rian%20Duarte&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Performance%20Focused%20Developer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=180&section=header&animation=fadeIn"/>
 </p>
 
-<!-- TYPING (ÚNICA ANIMAÇÃO DE TEXTO) -->
+<!-- TYPING (ANTIGO, MELHOR) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=32&center=true&vCenter=true&width=800&lines=⚡+Performance+Focused+Developer;🔥+Backend+%26+Optimization+Specialist;🚀+Python+%7C+Django+%7C+Linux"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?color=FF0000&size=28&center=true&vCenter=true&width=700&lines=Performance+Focused+Developer;Backend+%26+Optimization+Specialist;Python+%7C+Django+%7C+Linux;Building+Fast+%26+Efficient+Systems"/>
 </p>
 
 ---
@@ -31,7 +31,7 @@ Backend Developer focado em performance, automação e sistemas eficientes
 ## 🛠️ Tecnologias
 
 <p align="center">
-  <img height="55" src="https://skillicons.dev/icons?i=python,django,linux,git"/>
+  <img height="50" src="https://skillicons.dev/icons?i=python,django,linux,git"/>
 </p>
 
 ---
@@ -39,11 +39,11 @@ Backend Developer focado em performance, automação e sistemas eficientes
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RianDuarte&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RianDuarte&show_icons=true&theme=radical&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RianDuarte&layout=compact&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
+  <img height="140em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RianDuarte&layout=compact&langs_count=6&theme=radical&title_color=ff0000&text_color=ffffff&bg_color=0d1117"/>
 </p>
 
 ---
@@ -80,4 +80,11 @@ Projeto Django focado em performance
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RianDuarte&color=ff0000"/>
+</p>
+
+---
+
+<!-- LIQUID FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=150&section=footer"/>
 </p>
