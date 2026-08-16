@@ -560,14 +560,14 @@ Principalmente para:
 
 <p align="center">
   <img
-    src="./assets/snake/snake.svg"
+    src="https://raw.githubusercontent.com/RianDuarte/RianDuarte/main/assets/snake/appex-cobra.gif"
     alt="Animated 2D contribution cobra"
     width="100%"
   />
 </p>
 
 <p align="center">
-  <b>🐍 A cobra 2D cartoon personalizada baseada nas minhas contribuições.</b>
+  <b>🐍 Minha cobra 2D personalizada percorrendo minhas contribuições do GitHub.</b>
 </p>
 
 ---
