@@ -92,8 +92,8 @@ def fetch_public_calendar(username: str) -> list[Cell]:
         level_match = level_pattern.search(tag)
         if not (id_match and date_match and level_match):
             continue
-        week = int(id_match.group(1))
-        weekday = int(id_match.group(2))
+        weekday = int(id_match.group(1))
+        week = int(id_match.group(2))
         level = int(level_match.group(1))
         count = level_to_count.get(level, max(0, level))
         cells.append(Cell(week, weekday, date_match.group(1), count))
